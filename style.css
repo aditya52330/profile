@@ -66,6 +66,13 @@ body{
   margin: 10px 0;
 }
 
+.verification{
+  color: #da7d27;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px 0;
+}
+
 .desc{
   font-size: 18px;
   color: #e66767;
